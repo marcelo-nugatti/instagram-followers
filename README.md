@@ -15,6 +15,6 @@
 
 ### Notas:
 * En sistemas operativos Linux, ejecuta el programa sin sudo.
-* Coloca tus accesos de tu cuenta de instagrame en el archivo 'secrets.py'
+* Coloca tus accesos de tu cuenta de instagram en el archivo 'secrets.py'
 
 
